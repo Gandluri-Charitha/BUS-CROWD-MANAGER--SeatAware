@@ -3,15 +3,22 @@ Using this monitor real-time seat and passenger availability, automate door oper
 
 # Hardware Requirements 
    ESP32 Development Board – Main controller
+   
    IR Sensor Pairs (2 Nos.) – For counting entry & exit
+   
    16×2 LCD with I2C Backpack  – For displaying counts
+   
    5V Power Supply / Phone Charger – Powering the system
+   
    Breadboard & Jumper Wires – Circuit connections
+   
    Passive Buzzer – For over-limit alert
+   
    LED Indicator – Visual alert on full capacity
+   
    Mounting Accessories – Tape, brackets
 # Software Requirements
-     Arduino IDE
+    Arduino IDE
     ESP32 Board Support Package
     Github
     VS code 
